@@ -4,6 +4,11 @@ ROOT_DIR = Path(__file__).parent
 FILES_DIR = ROOT_DIR / 'files'
 WINDOW_ICON_PATH = FILES_DIR / 'Calculadora_Icon.png'
 
+# Colors
+PRIMARY_COLOR = "#140599"
+DARKER_PRIMARY_COLOR = "#035a83"
+DARKEST_PRIMARY_COLOR = "#032A3B"
+
 # Sizing
 BIG_FONT_SIZE = 40
 MEDIUM_FONT_SIZE = 24
